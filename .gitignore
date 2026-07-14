@@ -1,0 +1,10 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Data and large model files
+processed_data/
+*.keras
+*.pkl
+*.npy
+*.csv
